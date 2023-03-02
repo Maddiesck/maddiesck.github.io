@@ -1,0 +1,46 @@
+@charset "utf-8";
+.navbar-dark .navbar-nav .nav-link {
+    color: #FFFFFF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.navbar-nav .nav-item   {
+    width: 108px;
+    border: 1px solid #DE96F7;
+    margin-left: 4px;
+    margin-right: 4px;
+    text-align: center;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,219,243,1.00) 0%,rgba(189,150,245,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,219,243,1.00) 0%,rgba(189,150,245,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,219,243,1.00) 0%,rgba(189,150,245,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,219,243,1.00) 0%,rgba(189,150,245,1.00) 100%);
+}
+header h2 {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    color: #BC77A4;
+    font-size: 51pt;
+    margin-top: 0.5em;
+    text-shadow: 2px 2px 4px #000000;
+    text-align: center;
+}
+header p {
+    text-align: center;
+    color: #915E7F;
+}
+header {
+    background-image: url(Logo%20Banner.jpg);
+    height: 212px;
+    background-position: 44% 37%;
+    background-repeat: no-repeat;
+    background-size: 1200px auto;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: xx-large;
+    background-color: #FFDBF4;
+
+}
+nav .container {
+    padding-bottom: 10px;
+}
+body {
+    border-left: 15px solid #FFDBF4;
+    border-right: 15px solid #FFDBF4;
+}
