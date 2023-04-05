@@ -368,7 +368,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: 2rem;
+    font-size: 3rem;
 }
 
 h3, .h3 {
@@ -4760,14 +4760,16 @@ input[type="button"].btn-block {
 }
 
 .card-body {
-  -ms-flex: 1 1 auto;
-  flex: 1 1 auto;
-  min-height: 1px;
-  padding: 1.25rem;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    margin-top: 20px;
 }
 
 .card-title {
-  margin-bottom: 0.75rem;
+    margin-bottom: 0.75rem;
+    font-size: x-large;
 }
 
 .card-subtitle {
@@ -4843,8 +4845,9 @@ input[type="button"].btn-block {
 
 .card-img,
 .card-img-top {
-  border-top-left-radius: calc(0.25rem - 1px);
-  border-top-right-radius: calc(0.25rem - 1px);
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+    margin-top: 38px;
 }
 
 .card-img,
@@ -9943,7 +9946,8 @@ button.bg-dark:focus {
 }
 
 .text-left {
-  text-align: left !important;
+    text-align: left !important;
+    font-size: small;
 }
 
 .text-right {

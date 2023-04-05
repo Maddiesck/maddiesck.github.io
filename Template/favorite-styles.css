@@ -3,6 +3,14 @@
     color: #FFFFFF;
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 }
+.navbar-dark .navbar-nav .nav-link:hover  {
+    color: #989393;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+a:link, a:visited {
+    color: #ECB7CB;
+}
+
 .navbar-nav .nav-item   {
     width: 108px;
     border: 1px solid #DE96F7;
@@ -56,4 +64,11 @@ body {
 }
 .classestwo {
     text-align: center;
+}.title {
+    font-size: xx-large;
+}
+.link {
+}
+.link:hover {
+    color: #A54B4C;
 }
